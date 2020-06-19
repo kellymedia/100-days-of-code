@@ -6,4 +6,4 @@
 
 **Thoughts:** I'm and nervous and excited about beginning this challenge. If I am able to stick with it, I will complete it at the same time as the coding bootcamp program I am currently enrolled in. 
 
-**Link to work:** [Node READEME.md Generator](https://github.com/kellymedia/node-readme-generator)
+**Link to work:** [Node README.md Generator](https://github.com/kellymedia/node-readme-generator)
